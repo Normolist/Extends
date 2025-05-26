@@ -1,6 +1,6 @@
-package Main;
+package main;
 
-import static Main.Util.getLive;
+import static main.Util.getLive;
 
 public class GrandDad {
 

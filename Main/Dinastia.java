@@ -4,7 +4,7 @@ public class Dinastia {
     public static void main(String[] args) {
 
 
-        System.out.println("Генеологическое дерево сына:");
+        System.out.println("1Генеологическое дерево сына:");
         Son Person1 = new Son();
 
 

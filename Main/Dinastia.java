@@ -5,7 +5,7 @@ public class Dinastia {
 
 
         System.out.println("Генеологическое дерево сына:");
-        Sun Person1 = new Sun();
+        Son Person1 = new Son();
 
 
     }

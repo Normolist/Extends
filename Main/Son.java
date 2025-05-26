@@ -2,7 +2,7 @@ package Main;
 
 import static Main.Util.getLive;
 
-public class Sun extends Dad {
+public class Son extends Dad {
 
     static String leaveStatus = getLive("Sun");
     private String name = getName2();
@@ -20,14 +20,10 @@ public class Sun extends Dad {
         return "Sun";
     }
 
-    public Sun() {
+    public Son() {
         System.out.println("Конструктор сына вызван");
 
 
-    }
-
-    public void finalize() {
-        System.out.println("Сын удален");
     }
 
 }

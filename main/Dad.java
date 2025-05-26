@@ -1,7 +1,7 @@
-package Main;
+package main;
 //import Main.Util;
 
-import static Main.Util.getLive;
+import static main.Util.getLive;
 
 public class Dad extends GrandDad {
     static String leaveStatus = getLive("Dad");

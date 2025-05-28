@@ -1,5 +1,5 @@
 package main;
-
+//Говно код
 import static main.Util.getLive;
 
 public class Dad extends GrandDad {

@@ -1,5 +1,5 @@
 package main;
-1
+
 import static main.Util.getLive;
 
 public class Dad extends GrandDad {
